@@ -1,0 +1,12 @@
+.card{
+    /* margine outside of div leave space */
+    color: red;
+    background: lightgray;
+    margin-top: 50px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    /* padding inside of div leave space */
+    padding-top: 300px;
+    padding-right: 300px;
+}
